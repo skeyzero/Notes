@@ -1,6 +1,6 @@
 # QT使用笔记
-* [首页]()    
-* [Back]()
+* [首页](../README.md)    
+* [Back](./README.md)
 ## QT中插入QSS
 
 在main.cpp文件加入以下代码：
