@@ -1,5 +1,5 @@
 # 裸奔STM32 - 外部中断EXTI
-* [首页](.../README.md)    
+* [首页](../../README.md)    
 * [Back](../README.md)
 
 ## 认识中断线：

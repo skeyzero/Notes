@@ -1,5 +1,5 @@
 # QT使用笔记
-* [首页](.../README.md)    
+* [首页](../../README.md)    
 * [Back](../README.md)
 ## QT中插入QSS
 

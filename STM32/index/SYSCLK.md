@@ -1,7 +1,7 @@
 # 裸奔STM32 系统时钟 + NVICC
 
 
-* [首页](.../README.md)    
+* [首页](../../README.md)    
 * [Back](../README.md)
 
 ## 认识时钟树  
